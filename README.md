@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mitul Savani</h1>
-<h3 align="center">👋 Hi there! I'm Mitul Savani, a Frontend and Shopify Developer with a passion for crafting engaging e-commerce experiences. With 3 years of experience, I specialize in building custom Shopify themes and features that drive sales and delight users. 
+<h5 align="center">👋 Hi there! I'm Mitul Savani, a Frontend and Shopify Developer with a passion for crafting engaging e-commerce experiences. With 3 years of experience, I specialize in building custom Shopify themes and features that drive sales and delight users. 
  <br> 🔧 My tech stack includes HTML5, CSS3, JavaScript, and a deep dive into Shopify's unique ecosystem. I'm all about creating responsive, efficient, and aesthetically pleasing online stores. 📈 I’m constantly exploring new technologies and techniques to push the boundaries of what I can build. My repositories reflect my journey in learning and my commitment to delivering high-quality solutions. 
   <br> 🤝 I’m open to collaborations and love networking with other tech enthusiasts. Feel free to reach out if you're interested in partnering on a project or just want to chat about the latest in web development! 
-  <br> 🌐 Check out my work, fork my projects, or star them if you find them useful!</h3>
+  <br> 🌐 Check out my work, fork my projects, or star them if you find them useful!</h5>
 
 - 👨‍💻 All of my projects are available at [https://www.devmitul.tech/](https://www.devmitul.tech/)
 
